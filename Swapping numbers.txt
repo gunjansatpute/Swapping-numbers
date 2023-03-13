@@ -1,0 +1,26 @@
+# Take two integers
+
+num1= 19
+num2= 11
+
+# To take input from user
+# x = input("Enter value of x:")
+# y = input("Enter value of y:")
+
+# Swap the values
+
+num1,num2 = num2,num1
+
+print("num1=", num1)
+print("num2=", num2)
+
+Output:
+num1= 11
+num2= 19
+
+
+
+
+
+
+ 
